@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "text": "Clean the room",
+      "day": "Tonight",
+      "reminder": true,
+      "id": 588453
+    },
+    {
+      "text": "Take the trash to the street",
+      "day": "Wednesday, 8:00 AM",
+      "reminder": false,
+      "id": 229646
+    },
+    {
+      "text": "Give the dalmatian a bath",
+      "day": "Whenever \"I get to it......",
+      "reminder": true,
+      "id": 862535
+    }
+  ]
+}
